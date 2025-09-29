@@ -1,0 +1,7 @@
+.pio
+.vscode
+.cache
+include
+compile_commands.json
+test
+lib
